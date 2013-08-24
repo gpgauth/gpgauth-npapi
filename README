@@ -11,6 +11,7 @@ Building Dependencies
 =====================
 * cmake
 * development headers and libraries for libgpgme and gpg-error
+* gtk2.0-dev
 
 
 Prep Build Environment
